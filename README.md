@@ -1,5 +1,5 @@
 # Lab 2: Membership Calculator  
-**Name:** Ivan Patrick Frondozo
+**Name:** Ivan Patrick O Frondozo
 
 ## Screenshot of Output
 ![Output Screenshot](images/Screenshot-Output.png)
